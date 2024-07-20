@@ -26,7 +26,7 @@ Desarrollar en el estudiante las habilidades mínimas tanto técnicas como conce
 A continuación, se propone una serie de contenidos para el curso, de manera tal que su didáctica permita fomentar la asimilación de conceptos básicos y técnicos.
 
 **Temario**
-- [Análisis de problemas](enlace_al_archivo_analisis_de_problemas)
+- [Análisis de problemas](AnalisisProblema/README.md)
   - [Entradas/Proceso/Salidas](enlace_al_archivo_entradas_proceso_salidas)
   - [Reglas de tres](enlace_al_archivo_reglas_de_tres)
   - [Porcentajes](enlace_al_archivo_porcentajes)
