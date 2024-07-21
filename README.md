@@ -76,3 +76,4 @@ Día 6
 
 Haz clic en la imagen para ver el video.
 
+[![No aprendas a programar para ser programador](https://img.youtube.com/vi/RQXGjIumzXY/maxresdefault.jpg)](https://www.youtube.com/watch?v=RQXGjIumzXY)
