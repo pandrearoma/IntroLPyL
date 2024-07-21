@@ -79,11 +79,13 @@
 1. **Definición**:
    - Una fracción representa una parte de un todo y se compone de un numerador (parte superior) y un denominador (parte inferior).
 
-
      $$\frac{a}{b}$$
 
-($$\frac{1}{2}$$), ($$\frac{3}{4}$$), ($$frac{5}{8}$$)
+$$\frac{1}{2}$$   $$\frac{3}{4}$$   $$/frac{5}{8}$$
 
+1/2, 3/4, 5/8
+
+$$\frac{3}{4} + /frac{5}{8}$$
 
 
 2. **Suma y Resta de Fracciones**:
