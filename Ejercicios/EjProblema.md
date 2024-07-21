@@ -13,3 +13,6 @@ impuestos.
 8. Escribe un programa que determine si una cadena de texto es un palíndromo.
 9. Escribe un programa que genere la serie de Fibonacci hasta el n-ésimo término.
 10. Escribe un programa que convierta un número romano a un número entero.
+
+
+### [Regresar](README.md)
