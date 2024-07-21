@@ -16,10 +16,14 @@ Aplicar la lógica para crear algoritmos que cumplan con sus características pa
 11. Desarrollar un algoritmo que permita estudiar para un examen.
 12. Desarrollar un algoritmo que permita quitarse la camisa.
 13. Desarrollar un algoritmo que permita tomar una foto.
-14. Desarrollar un algoritmo que permitamanejar una bicicleta.
+14. Desarrollar un algoritmo que permita manejar una bicicleta.
 15. Desarrollar un algoritmo que permita hacer un avión con una hoja de papel.
 16. Desarrollar un algoritmo que permita hacer un gol en fútbol.
 17. Desarrollar un algoritmo que permita nadar.
 18. Desarrollar un algoritmo que permita amarrarse los zapatos.
 19. Desarrollar un algoritmo que permita elevar una cometa.
 20. Desarrollar un algoritmo que permita desarrollar algoritmos. 
+
+
+
+### [Regresar](README.md)
