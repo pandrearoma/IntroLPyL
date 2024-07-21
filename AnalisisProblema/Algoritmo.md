@@ -24,7 +24,6 @@ Permiten expresar mediante pasos o instrucciones la solución de un problema. Al
 - Expresiones
 
 
-
 ### Importancia de los Algoritmos en Programación
 
 Los algoritmos son fundamentales en la programación porque:
@@ -33,6 +32,15 @@ Los algoritmos son fundamentales en la programación porque:
 - **Optimizan Recursos**: Ayudan a encontrar soluciones óptimas en términos de tiempo de ejecución y uso de memoria.
 - **Mejoran la Comprensión**: Facilitan la comprensión de problemas complejos al descomponerlos en pasos más simples.
 - **Aseguran la Correctitud**: Aseguran que las soluciones son correctas y cumplen con los requisitos especificados.
+
+### Pasos a Seguir en el Diseño de un Algoritmo
+
+1. **Definición del problema**: En esta etapa se deben establecer los resultados y objetivos que se desea para poder saber si los datos que se tienen son suficientes para lograr los fines propuestos.
+2. **Análisis**: Una vez definido el problema se deberán organizar los datos de tal manera que sean susceptibles de usar en los cálculos siguientes.
+3. **Diseño**: En esta etapa se proponen soluciones a los problemas a resolver, por lo que se realiza una toma de decisiones aplicando los conocimientos adquiridos y utilizando los datos existentes.
+4. **Verificación o prueba de escritorio**: Se consideran resultados previstos para datos conocidos a fin de que al probar cada una de sus partes podamos ir comprobando que el algoritmo sirve o requiere modificarse.
+
+
 
 ### Ejemplo de Algoritmo
 
