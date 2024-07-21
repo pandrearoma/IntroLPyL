@@ -29,7 +29,7 @@ A continuación, se propone una serie de contenidos para el curso, de manera tal
 Día 1
   - [Análisis de problemas](AnalisisProblema/README.md)
   - [Mátemáticas elementales](MatematicasElementales.md)
-  - [Despeje de ecuaciones](enlace_al_archivo_despeje_de_ecuaciones)
+  - [Despeje de ecuaciones](Presentacion_MatematicaOperativa.pdf)
 
 
 Día 2
