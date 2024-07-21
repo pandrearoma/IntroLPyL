@@ -27,9 +27,8 @@ A continuación, se propone una serie de contenidos para el curso, de manera tal
 
 **Temario**
 Día 1
-- [Análisis de problemas](AnalisisProblema/README.md)
-  - [Entradas/Proceso/Salidas](enlace_al_archivo_entradas_proceso_salidas)
-  - [Mátemáticas elementales](enlace_al_archivo_reglas_de_tres)
+  - [Análisis de problemas](AnalisisProblema/README.md)
+  - [Mátemáticas elementales](MatematicasElementales.md)
   - [Despeje de ecuaciones](enlace_al_archivo_despeje_de_ecuaciones)
 
 
