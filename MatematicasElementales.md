@@ -225,9 +225,8 @@ $\frac{2}{3}$ se convierte en $\frac{2 \times 4}{3 \times 4} = \frac{8}{12} $.
 
 1. **Conversión entre Fracciones y Decimales**:
    - Para convertir una fracción a un decimal, divide el numerador entre el denominador.
-     ```markdown
-     Ejemplo:
-     \frac{3}{4} = 3 \div 4 = 0.7
+     $\frac{3}{4} = 3 \div 4 = 0.7$
+     
 
 
 
