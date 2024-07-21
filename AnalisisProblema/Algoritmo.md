@@ -60,4 +60,7 @@ Algoritmo EncontrarMaximo
 FinAlgoritmo
 ```
 
+
+Realizar los ejercicios de Algoritmo [Ejercicios / Algoritmo](../Ejercicios/README.md)
+
 ### [Regresar](README.md)
