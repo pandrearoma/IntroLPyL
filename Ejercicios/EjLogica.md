@@ -21,10 +21,13 @@
    8. Las perlas se enterraron en la playa este.
    9. El quinto Capitán se llama: Maldito.
   
-### [Regresar](README.md)
+
 <img src="/Img/Imagen4.jpg" alt="Reto de los 5 piratas" width="400"/> 
 
 [Acertijo de Einstein](https://www.cerebrol.com/logica/problemas/acertijo-de-einstein/)
 
 [Juegos para mejorar la lógica](https://poki.com/es/l%C3%B3gica)
 
+
+
+### [Regresar](README.md)
