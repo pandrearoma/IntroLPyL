@@ -20,7 +20,8 @@
    7. El Capitán Murder desembarcó en la playa norte, pero no enterró su tesoro en el centro de la isla.
    8. Las perlas se enterraron en la playa este.
    9. El quinto Capitán se llama: Maldito.
-
+  
+### [Regresar](README.md)
 <img src="/Img/Imagen4.jpg" alt="Reto de los 5 piratas" width="400"/> 
 
 [Acertijo de Einstein](https://www.cerebrol.com/logica/problemas/acertijo-de-einstein/)
