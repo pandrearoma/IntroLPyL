@@ -84,7 +84,34 @@ $$\frac{1}{2}$$ 1/2
 
 $$\frac{3}{4}$$ 3/4
 
-$$/frac{5}{8}$$ 5/8
+$$\frac{5}{8}$$ 5/8
+
+ **Mínimo Común Divisor**: El MCD de un conjunto de números es el mayor divisor común de esos números.
+
+ Método 1: Listado de Factores
+ 1 Haz una lista de los factores de cada número.
+  Factores de 12 : 1, 2, 3, 4, 6, 12
+  Factores de 30 : 1, 2, 3, 5, 6, 10, 15, 30
+ 2 Encuentra el número más grande que comparten todas las filas anteriores. Este es el MCD.
+  MCD = 6
+
+ Método 2: Factores Primos
+ 1 Enumera los factores primos de cada número.
+  Factor Primo de 12 : 2, 2, 3
+  Factor Primo de 30 : 2, 3, 5
+ 2 Encuentra la intersección de estos números primos.
+  2,3
+ 3 Multiplique estos números: 
+  2×3=6
+  MCD = 6
+
+
+
+
+   ```markdown
+   Ejemplo:
+   
+   ```
 
 2. **Suma y Resta de Fracciones**:
    - Para sumar o restar fracciones, deben tener un denominador común. $$\frac{3}{4}$$ + $$/frac{5}{8}$$
@@ -94,7 +121,9 @@ $$/frac{5}{8}$$ 5/8
      Ejemplo:
      $$\frac{1}{2} + \frac{1}{3} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}$$
      ```
+     
 
+   
 3. **Multiplicación y División de Fracciones**:
    - Multiplicación:
      \[ \frac{a}{b} \times \frac{c}{d} = \frac{a \times c}{b \times d} \]
@@ -139,10 +168,6 @@ $$/frac{5}{8}$$ 5/8
      \[ x = 2 \]
 
    
-5. **Mínimo Común Divisor**: El residuo es la cantidad que sobra después de realizar una división entera.
-   ```markdown
-   Ejemplo:
-   17 mod 5 = 2
-   ```
+
 
    
