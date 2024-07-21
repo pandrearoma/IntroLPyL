@@ -83,7 +83,7 @@ $$\frac{a}{b}$$
 
 $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$ 
 
- # **Máximo Común Divisor**: 
+ #### **Máximo Común Divisor**: 
  El MCD de un conjunto de números es el mayor divisor común de esos números.
 
  **Método 1: Listado de Factores**
@@ -120,29 +120,23 @@ $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$
 
  
    Ejemplo:
-MCD
- 225|**3**   300|2
- 
-  75|3       150|2
-  
-  25|**5**    75|**3**
-  
-   5|**5**    25|**5**
    
-   1|          5|**5**
-   
-               1|
+MCD (225, 300)
+
+225: **3**,3,**5**,**5**
+300: 2,2,**3,5,5**
 
 
 Comunes: 3,5,5
 
 Se multiplican 2*5*5=75
 
-MCD=75
+**MCD=75**
   
 
 
- **Mínimo Común Múltiplo (MCM)**: El Mínimo Común Múltiplo (MCM) de dos o más números es el menor número positivo que es múltiplo de cada uno de esos números. En otras palabras, el MCM de un conjunto de números es el número más pequeño que es divisible por todos ellos
+ #### **Mínimo Común Múltiplo (MCM)**: 
+El Mínimo Común Múltiplo (MCM) de dos o más números es el menor número positivo que es múltiplo de cada uno de esos números. En otras palabras, el MCM de un conjunto de números es el número más pequeño que es divisible por todos ellos
 
 Método de Factorización:
 
@@ -154,11 +148,9 @@ Para encontrar el MCM mediante la factorización, sigue estos pasos:
 
 Ejemplo
 MCM
- 12|2        15|3
-  6|2         5|5
-  3|3         1|
-  1|    
-  
+12: 2,2,3
+15: 3,5
+
 Los factores primos con sus mayores exponentes son: 
 $$ 12 = 2^2 * 3   y   15 = 3 * 5 $$
 
@@ -167,25 +159,14 @@ $$ MCM (12,15) = 2^2 * 3 * 5 = 4* 3* 5= 60)$$
 
 
 
-2. **Suma y Resta de Fracciones**:
-   - Para sumar o restar fracciones, deben tener un denominador común.
+2. #### **Suma y Resta de Fracciones**:
+   - Para sumar o restar fracciones, deben tener un denominador común MCM (Mínimo Común Múltiplo).
+
     a/b + c/d = (a*d + b+c) / b*d
 
    $$\frac{a}{b} + \frac{c}{d} = \frac{ad}{bd} + \frac{bc}{bd} = \frac{ad + bc}{bd}$$
 
-     ```markdown
-     Ejemplo:
-     1/2 + 1/3 = (3
-     $$\frac{1}{2} + \frac{1}{3} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}$$
-     ```
-     
-
-# Curso de Introducción a la Lógica de Programación
-
-## Suma de Fracciones
-
-Para realizar la suma de fracciones, necesitas encontrar un denominador común para las fracciones involucradas. Aquí están los pasos detallados:
-
+         
 1. **Encuentra un Denominador Común**:
    - El denominador común debe ser un múltiplo común de los denominadores de las fracciones que estás sumando. El denominador común más pequeño se llama Mínimo Común Múltiplo (MCM) de los denominadores.
 
@@ -198,21 +179,22 @@ Para realizar la suma de fracciones, necesitas encontrar un denominador común p
 4. **Simplifica la Fracción Resultante**:
    - Simplifica la fracción resultante si es posible.
 
-### Ejemplo
+#### Ejemplo
 
-Vamos a sumar las fracciones \( \frac{1}{4} \) y \( \frac{2}{3} \).
+Vamos a sumar las fracciones 
+$$\frac{1}{4} \) y \( \frac{2}{3} $$.
 
-#### Paso 1: Encuentra el Denominador Común
+##### Paso 1: Encuentra el Denominador Común
 
 - Los denominadores son 4 y 3.
 - El MCM de 4 y 3 es 12.
 
-#### Paso 2: Ajusta las Fracciones
+##### Paso 2: Ajusta las Fracciones
 
 Convierte cada fracción a una fracción equivalente con el denominador común 12.
 
-- \( \frac{1}{4} \) se convierte en \( \frac{1 \times 3}{4 \times 3} = \frac{3}{12} \).
-- \( \frac{2}{3} \) se convierte en \( \frac{2 \times 4}{3 \times 4} = \frac{8}{12} \).
+- $$ \frac{1}{4} se convierte en \frac{1*3}{4*3} = \frac{3}{12} $$.
+- $$ \frac{2}{3} se convierte en \frac{2*4}{3*4} = \frac{8}{12} $$.
 
 #### Paso 3: Suma los Numeradores
 
