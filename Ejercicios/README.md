@@ -23,7 +23,7 @@
 
 <img src="/Img/Imagen4.jpg" alt="Reto de los 5 piratas" width="400"/> 
 
-
+[Acertijo de Einstein](https://www.cerebrol.com/logica/problemas/acertijo-de-einstein/)
 
 
 
