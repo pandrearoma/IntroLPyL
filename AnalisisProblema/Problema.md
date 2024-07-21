@@ -45,15 +45,15 @@ Queremos escribir un programa que calcule el promedio de tres números introduci
 #### Implementación del Algoritmo
 
 
-# Entrada: Leer tres números
+##### Entrada: Leer tres números
 numero1 = float(input("Ingrese el primer número: "))
 numero2 = float(input("Ingrese el segundo número: "))
 numero3 = float(input("Ingrese el tercer número: "))
 
-# Proceso: Calcular la suma y el promedio
+##### Proceso: Calcular la suma y el promedio
 suma = numero1 + numero2 + numero3
 promedio = suma / 3
 
-# Salida: Mostrar el promedio
+##### Salida: Mostrar el promedio
 print("El promedio de los tres números es:", promedio)
 
