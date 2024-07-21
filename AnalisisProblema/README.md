@@ -1,5 +1,6 @@
 # Análisis del problema
-# ¿Qué es la Lógica?
+# Lógica
+## ¿Qué es la Lógica?
 
 - La lógica es una disciplina que se ocupa de los principios y criterios de la validez inferencial y la demostración. Es una herramienta esencial para el pensamiento crítico y el razonamiento.
 - Método o razonamiento en el que las ideas o la sucesión de los hechos se manifiestan o se desarrollan de forma **coherente** y **sin** que haya **contradicciones** entre ellas.
