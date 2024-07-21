@@ -52,3 +52,4 @@ print(a or b)  # True
 print(not a)  # False
 
 
+###[Regresar](AnalisisProblema.md)
