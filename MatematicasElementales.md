@@ -86,7 +86,7 @@ $$\frac{3}{4}$$ 3/4
 
 $$\frac{5}{8}$$ 5/8
 
- **Mínimo Común Divisor**: El MCD de un conjunto de números es el mayor divisor común de esos números.
+ **Máximo Común Divisor**: El MCD de un conjunto de números es el mayor divisor común de esos números.
 
 
  Método 1: Listado de Factores
@@ -122,11 +122,19 @@ $$\frac{5}{8}$$ 5/8
   MCD = 6
   
 
-
-
-
    ```markdown
    Ejemplo:
+MCD
+225|3   300|2
+ 75|3   150|2
+ 25|5    75|3
+  5|5    25|5
+  1|      5|5
+          1|
+
+Comúnes: 3,5,5
+Se múltiplican 2*5*5=75
+MCD=75
    
    ```
 
