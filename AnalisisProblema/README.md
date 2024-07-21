@@ -8,14 +8,15 @@
 1. f. Disposición natural de los seres humanos para pensar de forma coherente.
 
 
-
- <img src="../Img/Imagen2.jpg" alt="Ejemplo de Lógica" width="200"/> “Manera más OBVIA Y FÁCIL de hacer cualquier cosa”
+ <img src="../Img/Imagen2.jpg" alt="Camisa" width="200"/> “Manera más OBVIA Y FÁCIL de hacer cualquier cosa”
 
 
 **Lógica de programación**
- En el contexto de la programación, la lógica es fundamental para la construcción de algoritmos y la solución de problemas de manera estructurada y eficiente.
-Habilidad de pensar de manera razonada, sistemática y ordenada que nos hace capaces de crear soluciones a problemas. 
-![image](https://github.com/user-attachments/assets/a08ca987-8e55-48cf-ac1c-1d4315216611)
+- En el contexto de la programación, la lógica es fundamental para la construcción de algoritmos y la solución de problemas de manera estructurada y eficiente.
+- Habilidad de pensar de manera razonada, sistemática y ordenada que nos hace capaces de crear soluciones a problemas. 
+
+Realizar los ejercicios de lógica [Ejercicios / Lógica](../Ejercicios/README.md)
+
 
 ## Importancia de la Lógica en la Programación
 
