@@ -194,9 +194,9 @@ $$\frac{1}{4} + \frac{2}{3} $$.
 
 Convierte cada fracción a una fracción equivalente con el denominador común 12.
 
-$\frac{1}{4}$ se convierte en $\frac{1*3}{4*3} = \frac{3}{12} $.
+$\frac{1}{4}$ se convierte en $\frac{1 \times 3}{4 \times 3} = \frac{3}{12} $.
 
-$$ \frac{2}{3}$$ se convierte en $$\frac{2*4}{3*4} = \frac{8}{12} $$.
+$ \frac{2}{3}$ se convierte en $\frac{2 \times 4}{3 \times 4} = \frac{8}{12} $.
 
 #### Paso 3: Suma los Numeradores
 
