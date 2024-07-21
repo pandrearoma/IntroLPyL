@@ -69,3 +69,6 @@ Día 6
   - [JCreator](enlace_al_archivo_jcreator)
   - [Python](enlace_al_archivo_python)
   - [Visual Studio Code](enlace_al_archivo_visual_studio_code)
+
+
+[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=sDk1pTDPROI))
