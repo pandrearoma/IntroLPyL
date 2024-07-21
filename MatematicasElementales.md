@@ -44,10 +44,10 @@
      ```
 
    - **Multiplicación**: El orden de los números no afecta el producto.
-     \[ a \times b = b \times a \]
+     \[ a * b = b * a \]
      ```markdown
      Ejemplo:
-     4 \times 7 = 7 \times 4
+     4 * 7 = 7 * 4
      ```
 
 2. **Propiedad Asociativa**:
@@ -59,19 +59,20 @@
      ```
 
    - **Multiplicación**: La forma en que los números se agrupan no afecta el producto.
-     \[ (a \times b) \times c = a \times (b \times c) \]
+     \[ (a * b) * c = a * (b * c) \]
      ```markdown
      Ejemplo:
-     (2 \times 3) \times 4 = 2 \times (3 \times 4)
+     (2 * 3) * 4 = 2 * (3 * 4)
      ```
 
 3. **Propiedad Distributiva**:
    - Distribuir una multiplicación sobre una suma o resta.
-     \[ a \times (b + c) = a \times b + a \times c \]
+     \[ a * (b + c) = a * b + a * c \]
      ```markdown
      Ejemplo:
-     2 \times (3 + 4) = 2 \times 3 + 2 \times 4
+     2 * (3 + 4) = 2 * 3 + 2 * 4
      ```
+
 
 ### Fracciones
 
