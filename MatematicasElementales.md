@@ -81,8 +81,9 @@
 
      $$\frac{a}{b}$$
 
-$$\frac{1}{2}$$ $$\frac{3}{4}$$ $$/frac{5}{8}$$
-1/2, 3/4, 5/8
+$$\frac{1}{2}$$ 1/2
+$$\frac{3}{4}$$ 3/4
+$$/frac{5}{8}$$ 5/8
 
 2. **Suma y Resta de Fracciones**:
    - Para sumar o restar fracciones, deben tener un denominador común. $$\frac{3}{4}$$ + $$/frac{5}{8}$$
