@@ -7,7 +7,7 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Algoritmo](EjAlgoritmo.md)
 
-
+[Operaciones Básicas](OperacionesBasicas.md)
 
 ### [Regresar](../README.md)
 
