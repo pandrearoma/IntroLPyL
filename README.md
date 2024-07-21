@@ -71,4 +71,9 @@ Día 6
   - [Visual Studio Code](enlace_al_archivo_visual_studio_code)
 
 
-[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=sDk1pTDPROI))
+
+
+[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDk1pTDPROI)
+
+Haz clic en la imagen para ver el video.
+
