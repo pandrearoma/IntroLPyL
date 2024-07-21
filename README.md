@@ -72,8 +72,7 @@ Día 6
 
 
 
-
-[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDk1pTDPROI)
+[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/sDk1pTDPROI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDk1pTDPROI)
 
 Haz clic en la imagen para ver el video.
 
