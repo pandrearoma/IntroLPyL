@@ -4,5 +4,7 @@ En este módulo abordaremos los conceptos del análisis del problema para llegar
 
 
 [Lógica](Logica.md)
+
 [Problema](Problema.md)
+
 [Algoritmo](Algoritmo.md)
