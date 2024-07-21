@@ -83,34 +83,35 @@ $$\frac{a}{b}$$
 
 $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$ 
 
- **Máximo Común Divisor**: El MCD de un conjunto de números es el mayor divisor común de esos números.
+ # **Máximo Común Divisor**: 
+ El MCD de un conjunto de números es el mayor divisor común de esos números.
 
- Método 1: Listado de Factores
+ **Método 1: Listado de Factores**
  
- 1 Haz una lista de los factores de cada número.
+ 1. Haz una lista de los factores de cada número.
  
   Factores de 12 : 1, 2, 3, 4, 6, 12
   
   Factores de 30 : 1, 2, 3, 5, 6, 10, 15, 30
   
- 2 Encuentra el número más grande que comparten todas las filas anteriores. Este es el MCD.
+ 2. Encuentra el número más grande que comparten todas las filas anteriores. Este es el MCD.
  
   MCD = 6
 
 
- Método 2: Factores Primos
+ **Método 2: Factores Primos**
  
- 1 Enumera los factores primos de cada número.
+ 1. Enumera los factores primos de cada número.
  
   Factor Primo de 12 : 2, 2, 3
   
   Factor Primo de 30 : 2, 3, 5
   
- 2 Encuentra la intersección de estos números primos.
+ 2. Encuentra la intersección de estos números primos (factores comunes).
  
   2,3
   
- 3 Multiplique estos números: 
+ 3. Multiplique estos números: 
  
   2×3=6
   
@@ -120,15 +121,15 @@ $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$
  
    Ejemplo:
 MCD
-225|**3**   300|2
- 75|3       150|2
- 25|**5**    75|**3**
-  5|**5**    25|**5**
-  1|          5|**5**
-              1|
+ - 225|**3**   300|2
+ - 75|3       150|2
+ - 25|**5**    75|**3**
+ -  5|**5**    25|**5**
+ - 1|          5|**5**
+ -              1|
 
-Comúnes: 3,5,5
-Se múltiplican 2*5*5=75
+Comunes: 3,5,5
+Se multiplican 2*5*5=75
 MCD=75
   
 
