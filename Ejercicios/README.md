@@ -25,5 +25,8 @@
 
 [Acertijo de Einstein](https://www.cerebrol.com/logica/problemas/acertijo-de-einstein/)
 
+[Juegos para mejorar la lógica](https://poki.com/es/l%C3%B3gica)
+
+
 
 
