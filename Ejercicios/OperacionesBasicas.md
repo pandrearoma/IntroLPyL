@@ -26,3 +26,6 @@ Encuentra el cociente de 225 dividido por 15.
 Encuentra el residuo de 29 dividido por 5.
 
 Calcula el residuo de 100 dividido por 9.
+
+
+### [Regresar](README.md)
