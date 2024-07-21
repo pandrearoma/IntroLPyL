@@ -2,8 +2,8 @@
 # ¿Qué es la Lógica?
 
 La lógica es una disciplina que se ocupa de los principios y criterios de la validez inferencial y la demostración. 
-(Img/Imagen2.jpg)
 
+![Texto alternativo](Img/Imagen2.jpg)
 ![Ejemplo de Lógica](Img/Imagen2.jpg)
 
 Es una herramienta esencial para el pensamiento crítico y el razonamiento. En el contexto de la programación, la lógica es fundamental para la construcción de algoritmos y la solución de problemas de manera estructurada y eficiente.
