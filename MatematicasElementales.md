@@ -121,17 +121,26 @@ $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$
  
    Ejemplo:
 MCD
- - 225|**3**   300|2
- - 75|3       150|2
- - 25|**5**    75|**3**
- -  5|**5**    25|**5**
- - 1|          5|**5**
- -              1|
+ 225|**3**   300|2
+ 
+  75|3       150|2
+  
+  25|**5**    75|**3**
+  
+   5|**5**    25|**5**
+   
+   1|          5|**5**
+   
+               1|
+
 
 Comunes: 3,5,5
+
 Se multiplican 2*5*5=75
+
 MCD=75
   
+
 
  **Mínimo Común Múltiplo (MCM)**: El Mínimo Común Múltiplo (MCM) de dos o más números es el menor número positivo que es múltiplo de cada uno de esos números. En otras palabras, el MCM de un conjunto de números es el número más pequeño que es divisible por todos ellos
 
