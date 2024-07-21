@@ -24,6 +24,8 @@ En programación, el enfoque de entrada/proceso/salida (E/P/S) es una manera de 
 2. **Proceso (Process)**: Las operaciones o cálculos que el programa realiza sobre la entrada.
 3. **Salida (Output)**: Los resultados o datos generados por el programa después del procesamiento.
 
+
+
 ### Ejemplo Práctico
 
 #### Ejemplo de Problema
@@ -59,5 +61,10 @@ promedio = suma / 3
 
 ##### Salida: Mostrar el promedio
 print("El promedio de los tres números es:", promedio)
+
+
+
+Realizar los ejercicios de lógica [Ejercicios / Problema](../Ejercicios/README.md)
+
 
 ### [Regresar](README.md)
