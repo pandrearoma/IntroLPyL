@@ -1,14 +1,21 @@
 # Análisis del problema
 # ¿Qué es la Lógica?
 
-La lógica es una disciplina que se ocupa de los principios y criterios de la validez inferencial y la demostración. 
+- La lógica es una disciplina que se ocupa de los principios y criterios de la validez inferencial y la demostración. Es una herramienta esencial para el pensamiento crítico y el razonamiento.
+- Método o razonamiento en el que las ideas o la sucesión de los hechos se manifiestan o se desarrollan de forma **coherente** y **sin** que haya **contradicciones** entre ellas.
+
+**Lógica natural**
+1. f. Disposición natural de los seres humanos para pensar de forma coherente.
+
 
 
  <img src="../Img/Imagen2.jpg" alt="Ejemplo de Lógica" width="200"/> “Manera más OBVIA Y FÁCIL de hacer cualquier cosa”
 
 
-
-Es una herramienta esencial para el pensamiento crítico y el razonamiento. En el contexto de la programación, la lógica es fundamental para la construcción de algoritmos y la solución de problemas de manera estructurada y eficiente.
+**Lógica de programación**
+ En el contexto de la programación, la lógica es fundamental para la construcción de algoritmos y la solución de problemas de manera estructurada y eficiente.
+Habilidad de pensar de manera razonada, sistemática y ordenada que nos hace capaces de crear soluciones a problemas. 
+![image](https://github.com/user-attachments/assets/a08ca987-8e55-48cf-ac1c-1d4315216611)
 
 ## Importancia de la Lógica en la Programación
 
