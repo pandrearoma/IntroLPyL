@@ -159,7 +159,7 @@ $$ MCM (12,15) = 2^2 * 3 * 5 = 4* 3* 5= 60)$$
 
 
 
-2. #### **Suma y Resta de Fracciones**:
+2. ### **Suma y Resta de Fracciones**:
    - Para sumar o restar fracciones, deben tener un denominador común MCM (Mínimo Común Múltiplo).
 
     a/b + c/d = (a*d + b+c) / b*d
@@ -179,7 +179,7 @@ $$ MCM (12,15) = 2^2 * 3 * 5 = 4* 3* 5= 60)$$
 4. **Simplifica la Fracción Resultante**:
    - Simplifica la fracción resultante si es posible.
 
-#### Ejemplo
+Ejemplo
 
 Vamos a sumar las fracciones 
 
@@ -227,28 +227,3 @@ $\frac{2}{3}$ se convierte en $\frac{2 \times 4}{3 \times 4} = \frac{8}{12} $.
    - Para convertir una fracción a un decimal, divide el numerador entre el denominador.
      $\frac{3}{4} = 3 \div 4 = 0.7$
      
-
-
-
-### Ecuaciones Básicas
-
-1. **Ecuaciones Lineales**:
-   - Una ecuación lineal es una ecuación de primer grado que puede representarse como \( ax + b = c \).
-     ```markdown
-     Ejemplo:
-     2x + 3 = 7
-     ```
-
-2. **Resolver Ecuaciones Lineales**:
-   - Para resolver \( ax + b = c \):
-     1. Resta \( b \) de ambos lados de la ecuación.
-     2. Divide ambos lados por \( a \).
-     \[ 2x + 3 = 7 \]
-     \[ 2x = 7 - 3 \]
-     \[ 2x = 4 \]
-     \[ x = 2 \]
-
-   
-
-
-   
