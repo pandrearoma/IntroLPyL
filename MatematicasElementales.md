@@ -204,23 +204,22 @@ $\frac{2}{3}$ se convierte en $\frac{2 \times 4}{3 \times 4} = \frac{8}{12} $.
 
 #### Paso 4: Simplifica la Fracción Resultante
 
-- La fracción resultante es $$\frac{11}{12} $$. No es necesario simplificar más ya que $$\frac{11}{12} $$ es la fracción más simple.
+- La fracción resultante es $\frac{11}{12} $. No es necesario simplificar más ya que $\frac{11}{12} $ es la fracción más simple.
 
    
-4. **Multiplicación y División de Fracciones**:
+4. ### **Multiplicación y División de Fracciones**:
    - Multiplicación:
-     \[ \frac{a}{b} \times \frac{c}{d} = \frac{a \times c}{b \times d} \]
-     ```markdown
-     Ejemplo:
-     \frac{1}{2} \times \frac{2}{3} = \frac{1 \times 2}{2 \times 3} = \frac{2}{6} = \frac{1}{3}
-     ```
+     $\frac{a}{b} \times \frac{c}{d} = \frac{a \times c}{b \times d} $
+   
+   Ejemplo
+     $\frac{1}{2} \times \frac{2}{3} = \frac{1 \times 2}{2 \times 3} = \frac{2}{6} = \frac{1}{3}$
+     
 
    - División:
-     \[ \frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \frac{d}{c} \]
-     ```markdown
-     Ejemplo:
-     \frac{1}{2} \div \frac{2}{3} = \frac{1}{2} \times \frac{3}{2} = \frac{3}{4}
-     ```
+     $\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \frac{d}{c}$
+   
+     $\frac{1}{2} \div \frac{2}{3} = \frac{1}{2} \times \frac{3}{2} = \frac{3}{4}$
+    
 
 ### Decimales
 
