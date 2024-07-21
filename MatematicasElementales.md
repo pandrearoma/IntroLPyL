@@ -78,16 +78,12 @@
 
 1. **Definición**:
    - Una fracción representa una parte de un todo y se compone de un numerador (parte superior) y un denominador (parte inferior).
-     $$\frac{a}{b}$$
+
+$$\frac{a}{b}$$
 
 $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$ 
 
-$$\frac{3}{4}$$ 3/4
-
-$$\frac{5}{8}$$ 5/8
-
  **Máximo Común Divisor**: El MCD de un conjunto de números es el mayor divisor común de esos números.
-
 
  Método 1: Listado de Factores
  
@@ -101,7 +97,6 @@ $$\frac{5}{8}$$ 5/8
  
   MCD = 6
 
-  
 
  Método 2: Factores Primos
  
@@ -142,6 +137,7 @@ MCD=75
    - Para sumar o restar fracciones, deben tener un denominador común.
     a/b + c/d = (a*d + b+c) / b*d
 
+   $$\frac{a}{b} + \frac{c}{d} = \frac{ad}{bd} + \frac{bc}{bd} = \frac{ad + bc}{bd}$$
 
      ```markdown
      Ejemplo:
