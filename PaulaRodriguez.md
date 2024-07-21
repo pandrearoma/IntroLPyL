@@ -18,3 +18,8 @@ Laboratorio de máquinas inteligentes
 - DataLab
 
 Contacto: paularodriguez7913@correo.itm.edu.co
+
+
+[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/sDk1pTDPROI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDk1pTDPROI)
+
+Haz clic en la imagen para ver el video.
