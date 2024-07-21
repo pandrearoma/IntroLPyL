@@ -11,6 +11,19 @@ Un algoritmo es una secuencia finita de pasos bien definidos que se utilizan par
 3. **Entrada**: Un algoritmo debe aceptar cero o más entradas.
 4. **Salida**: Un algoritmo debe producir al menos una salida.
 5. **Eficiente**: Un algoritmo debe ser eficiente en términos de tiempo y espacio, aunque esto puede depender del contexto y de las restricciones del problema.
+6. **Legible**: Debe ser claro, tal que permita entenderlo y leerlo fácilmente
+7. **Definido (Validez)**: Si se sigue un algoritmo dos o más veces con los mismos datos de entrada, se debe obtener el mismo resultado cada vez.
+
+### Elementos de un Algoritmo
+
+Permiten expresar mediante pasos o instrucciones la solución de un problema. Algunos de ellos son:
+
+- Variables
+- Constantes
+- Operaciones
+- Expresiones
+
+
 
 ### Importancia de los Algoritmos en Programación
 
