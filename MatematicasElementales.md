@@ -88,22 +88,39 @@ $$\frac{5}{8}$$ 5/8
 
  **Mínimo Común Divisor**: El MCD de un conjunto de números es el mayor divisor común de esos números.
 
+
  Método 1: Listado de Factores
+ 
  1 Haz una lista de los factores de cada número.
+ 
   Factores de 12 : 1, 2, 3, 4, 6, 12
+  
   Factores de 30 : 1, 2, 3, 5, 6, 10, 15, 30
+  
  2 Encuentra el número más grande que comparten todas las filas anteriores. Este es el MCD.
+ 
   MCD = 6
 
+  
+
  Método 2: Factores Primos
+ 
  1 Enumera los factores primos de cada número.
+ 
   Factor Primo de 12 : 2, 2, 3
+  
   Factor Primo de 30 : 2, 3, 5
+  
  2 Encuentra la intersección de estos números primos.
+ 
   2,3
+  
  3 Multiplique estos números: 
+ 
   2×3=6
+  
   MCD = 6
+  
 
 
 
