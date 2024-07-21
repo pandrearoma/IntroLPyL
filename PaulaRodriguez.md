@@ -16,3 +16,5 @@ Laboratorio de máquinas inteligentes
 - Inteligencia Artificial
 - ¡Destácate mujer! Permanece en tu estudio relacionado con la ciencia, la tecnología e ingeniería
 - DataLab
+
+Contacto: paularodriguez7913@correo.itm.edu.co
