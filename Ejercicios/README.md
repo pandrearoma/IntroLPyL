@@ -2,7 +2,7 @@
 1. Si Rosa habla más bajo que Ángela y Rosa habla más alto que Celia, ¿Habla Celia más alto o más bajo que Ángela?
 2. Cambiar hacia donde mira el perro solo con dos movimientos. No sobran fósforos y no se pueden trasponer.
    
-<img src="/Img/Imagen3.jpg" alt="Ejemplo de Lógica" width="200"/> 
+<img src="/Img/Imagen3.jpg" alt="Perro" width="200"/> 
 
 3. Hay tres cajas , una contiene tornillos , otra tuercas y la otra clavos. El que ha puesto las etiquetas de lo que contenía c/u se ha confundido y no ha acertado con ninguna. Abriendo una sola caja y sacando una sola pieza de dicha caja.
  ¿Cómo se puede conseguir poner a cada caja su etiqueta correcta ?
@@ -21,6 +21,7 @@
    8. Las perlas se enterraron en la playa este.
    9. El quinto Capitán se llama: Maldito.
 
+<img src="/Img/Imagen4.jpg" alt="Reto de los 5 piratas" width="200"/> 
 
 
 
