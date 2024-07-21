@@ -182,7 +182,8 @@ $$ MCM (12,15) = 2^2 * 3 * 5 = 4* 3* 5= 60)$$
 #### Ejemplo
 
 Vamos a sumar las fracciones 
-$$\frac{1}{4} \) y \( \frac{2}{3} $$.
+
+$$\frac{1}{4} \quad \frac{2}{3} $$.
 
 ##### Paso 1: Encuentra el Denominador Común
 
@@ -193,8 +194,8 @@ $$\frac{1}{4} \) y \( \frac{2}{3} $$.
 
 Convierte cada fracción a una fracción equivalente con el denominador común 12.
 
-- $$ \frac{1}{4} se convierte en \frac{1*3}{4*3} = \frac{3}{12} $$.
-- $$ \frac{2}{3} se convierte en \frac{2*4}{3*4} = \frac{8}{12} $$.
+$$ \frac{1}{4}$$ se convierte en $$\frac{1*3}{4*3} = \frac{3}{12} $$.
+$$ \frac{2}{3}$$ se convierte en $$\frac{2*4}{3*4} = \frac{8}{12} $$.
 
 #### Paso 3: Suma los Numeradores
 
