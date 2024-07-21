@@ -9,5 +9,7 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Operaciones Básicas](OperacionesBasicas.md)
 
+[Fracciones](Fracciones.md)
+
 ### [Regresar](../README.md)
 
