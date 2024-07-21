@@ -31,14 +31,17 @@ Día 1
   - [Entradas/Proceso/Salidas](enlace_al_archivo_entradas_proceso_salidas)
   - [Mátemáticas elementales](enlace_al_archivo_reglas_de_tres)
   - [Despeje de ecuaciones](enlace_al_archivo_despeje_de_ecuaciones)
+
+
 Día 2
+
+  
   - [Proporcionalidad](enlace_al_archivo_reglas_de_tres)
   - [Reglas de tres](enlace_al_archivo_reglas_de_tres)
   - [Porcentajes](enlace_al_archivo_porcentajes)
 Día 3
   - [Cálculo de operaciones básicas](enlace_al_archivo_calculo_de_operaciones_basicas)
-  - [Fórmulas para recordar](enlace_al_archivo_despeje_de_ecuaciones)
-Día 4
+  - [Fórmulas para recordar](enlace_al_archivo_despeje_de_ecuaciones)Día 4
 - [Operadores y expresiones](enlace_al_archivo_operadores_y_expresiones)
 - [Tipos de variables](enlace_al_archivo_tipos_de_variables)
 Día 5
