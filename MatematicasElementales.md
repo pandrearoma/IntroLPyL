@@ -183,7 +183,7 @@ $$ MCM (12,15) = 2^2 * 3 * 5 = 4* 3* 5= 60)$$
 
 Vamos a sumar las fracciones 
 
-$$\frac{1}{4} \quad \frac{2}{3} $$.
+$$\frac{1}{4} + \frac{2}{3} $$.
 
 ##### Paso 1: Encuentra el Denominador Común
 
@@ -195,6 +195,7 @@ $$\frac{1}{4} \quad \frac{2}{3} $$.
 Convierte cada fracción a una fracción equivalente con el denominador común 12.
 
 $$ \frac{1}{4}$$ se convierte en $$\frac{1*3}{4*3} = \frac{3}{12} $$.
+
 $$ \frac{2}{3}$$ se convierte en $$\frac{2*4}{3*4} = \frac{8}{12} $$.
 
 #### Paso 3: Suma los Numeradores
@@ -203,43 +204,7 @@ $$ \frac{2}{3}$$ se convierte en $$\frac{2*4}{3*4} = \frac{8}{12} $$.
 
 #### Paso 4: Simplifica la Fracción Resultante
 
-- La fracción resultante es \( \frac{11}{12} \). No es necesario simplificar más ya que \( \frac{11}{12} \) es la fracción más simple.
-
-### Implementación en Python
-
-```python
-from math import gcd
-
-def mcm(a, b):
-    return abs(a * b) // gcd(a, b)
-
-def suma_fracciones(frac1, frac2):
-    numerador1, denominador1 = frac1
-    numerador2, denominador2 = frac2
-    
-    # Encuentra el denominador común
-    denominador_comun = mcm(denominador1, denominador2)
-    
-    # Ajusta las fracciones
-    numerador1_ajustado = numerador1 * (denominador_comun // denominador1)
-    numerador2_ajustado = numerador2 * (denominador_comun // denominador2)
-    
-    # Suma los numeradores
-    numerador_suma = numerador1_ajustado + numerador2_ajustado
-    
-    # Simplifica la fracción resultante
-    divisor_comun = gcd(numerador_suma, denominador_comun)
-    numerador_simplificado = numerador_suma // divisor_comun
-    denominador_simplificado = denominador_comun // divisor_comun
-    
-    return (numerador_simplificado, denominador_simplificado)
-
-# Ejemplo de uso
-fraccion1 = (1, 4)
-fraccion2 = (2, 3)
-resultado = suma_fracciones(fraccion1, fraccion2)
-print(f"La suma de {fraccion1} y {fraccion2} es: {resultado[0]}/{resultado[1]}")
-
+- La fracción resultante es $$\frac{11}{12} $$. No es necesario simplificar más ya que $$\frac{11}{12} $$ es la fracción más simple.
 
    
 4. **Multiplicación y División de Fracciones**:
