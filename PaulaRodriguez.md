@@ -20,6 +20,6 @@ Laboratorio de máquinas inteligentes
 Contacto: paularodriguez7913@correo.itm.edu.co
 
 
-[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/sDk1pTDPROI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDk1pTDPROI)
+[![Todo el mundo debería aprender a programar](https://img.youtube.com/vi/FOhQsONTxX8/maxresdefault.jpg)](https://www.youtube.com/watch?v=FOhQsONTxX8)
 
 Haz clic en la imagen para ver el video.
