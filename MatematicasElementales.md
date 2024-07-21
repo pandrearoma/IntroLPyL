@@ -8,12 +8,12 @@
    ```markdown
    Ejemplo:
    5 + 3 = 8
- ```
+   ```
 2. **Resta (-)**: La operación de sustracción toma dos números y produce su diferencia.
    ```markdown
    Ejemplo:
    10 - 4 = 6
- ```
+   ```
 3. **Multiplicación (*)**: La operación de multiplicación toma dos números y produce su producto.
    ```markdown
    Ejemplo:
@@ -28,4 +28,94 @@
    ```markdown
    Ejemplo:
    17 mod 5 = 2
- ```
+   ```
+
+
+## Pre-Álgebra
+
+### Propiedades de las Operaciones
+
+1. **Propiedad Conmutativa**:
+   - **Suma**: El orden de los números no afecta la suma.
+     \[ a + b = b + a \]
+     ```markdown
+     Ejemplo:
+     3 + 5 = 5 + 3
+     ```
+
+   - **Multiplicación**: El orden de los números no afecta el producto.
+     \[ a \times b = b \times a \]
+     ```markdown
+     Ejemplo:
+     4 \times 7 = 7 \times 4
+     ```
+
+2. **Propiedad Asociativa**:
+   - **Suma**: La forma en que los números se agrupan no afecta la suma.
+     \[ (a + b) + c = a + (b + c) \]
+     ```markdown
+     Ejemplo:
+     (2 + 3) + 4 = 2 + (3 + 4)
+     ```
+
+   - **Multiplicación**: La forma en que los números se agrupan no afecta el producto.
+     \[ (a \times b) \times c = a \times (b \times c) \]
+     ```markdown
+     Ejemplo:
+     (2 \times 3) \times 4 = 2 \times (3 \times 4)
+     ```
+
+3. **Propiedad Distributiva**:
+   - Distribuir una multiplicación sobre una suma o resta.
+     \[ a \times (b + c) = a \times b + a \times c \]
+     ```markdown
+     Ejemplo:
+     2 \times (3 + 4) = 2 \times 3 + 2 \times 4
+     ```
+
+### Fracciones
+
+1. **Definición**:
+   - Una fracción representa una parte de un todo y se compone de un numerador (parte superior) y un denominador (parte inferior).
+     \[ \frac{a}{b} \]
+
+2. **Suma y Resta de Fracciones**:
+   - Para sumar o restar fracciones, deben tener un denominador común.
+     \[ \frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd} \]
+     ```markdown
+     Ejemplo:
+     \frac{1}{2} + \frac{1}{3} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}
+     ```
+
+3. **Multiplicación y División de Fracciones**:
+   - Multiplicación:
+     \[ \frac{a}{b} \times \frac{c}{d} = \frac{a \times c}{b \times d} \]
+     ```markdown
+     Ejemplo:
+     \frac{1}{2} \times \frac{2}{3} = \frac{1 \times 2}{2 \times 3} = \frac{2}{6} = \frac{1}{3}
+     ```
+
+   - División:
+     \[ \frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \frac{d}{c} \]
+     ```markdown
+     Ejemplo:
+     \frac{1}{2} \div \frac{2}{3} = \frac{1}{2} \times \frac{3}{2} = \frac{3}{4}
+     ```
+
+### Decimales
+
+1. **Conversión entre Fracciones y Decimales**:
+   - Para convertir una fracción a un decimal, divide el numerador entre el denominador.
+     ```markdown
+     Ejemplo:
+     \frac{3}{4} = 3 \div 4 = 0.7
+
+
+   
+5. **Mínimo Común Divisor**: El residuo es la cantidad que sobra después de realizar una división entera.
+   ```markdown
+   Ejemplo:
+   17 mod 5 = 2
+   ```
+
+   
