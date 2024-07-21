@@ -85,11 +85,12 @@ $$\frac{1}{2}$$ $$\frac{3}{4}$$ $$/frac{5}{8}$$
 1/2, 3/4, 5/8
 
 2. **Suma y Resta de Fracciones**:
-   - Para sumar o restar fracciones, deben tener un denominador común. $$\frac{3}{4} + $$/frac{5}{8}$$
+   - Para sumar o restar fracciones, deben tener un denominador común. $$\frac{3}{4}$$ + $$/frac{5}{8}$$
      $$ \frac{a}{b} + $$\frac{c}{d} = $$\frac{ad + bc}{bd}$$
+
      ```markdown
      Ejemplo:
-     \frac{1}{2} + \frac{1}{3} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}
+     $$\frac{1}{2} + \frac{1}{3} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}$$
      ```
 
 3. **Multiplicación y División de Fracciones**:
