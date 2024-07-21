@@ -2,7 +2,7 @@
 # ¿Qué es la Lógica?
 
 La lógica es una disciplina que se ocupa de los principios y criterios de la validez inferencial y la demostración. 
-
+ 
 ![Texto alternativo](Img/Imagen2.jpg)
 ![Ejemplo de Lógica](Img/Imagen2.jpg)
 
