@@ -21,7 +21,7 @@
    8. Las perlas se enterraron en la playa este.
    9. El quinto Capitán se llama: Maldito.
 
-<img src="/Img/Imagen4.jpg" alt="Reto de los 5 piratas" width="200"/> 
+<img src="/Img/Imagen4.jpg" alt="Reto de los 5 piratas" width="400"/> 
 
 
 
