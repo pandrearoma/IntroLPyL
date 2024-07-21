@@ -117,21 +117,45 @@ $$\frac{1}{2} = 1/2, \quad \frac{3}{4} = 3/4  \quad  \frac{5}{8} = 5/8$$
   MCD = 6
   
 
-   ```markdown
+ 
    Ejemplo:
 MCD
-225|3   300|2
- 75|3   150|2
- 25|5    75|3
-  5|5    25|5
-  1|      5|5
-          1|
+225|**3**   300|2
+ 75|3       150|2
+ 25|**5**    75|**3**
+  5|**5**    25|**5**
+  1|          5|**5**
+              1|
 
 Comúnes: 3,5,5
 Se múltiplican 2*5*5=75
 MCD=75
-   
-   ```
+  
+
+ **Mínimo Común Múltiplo (MCM)**: El Mínimo Común Múltiplo (MCM) de dos o más números es el menor número positivo que es múltiplo de cada uno de esos números. En otras palabras, el MCM de un conjunto de números es el número más pequeño que es divisible por todos ellos
+
+Método de Factorización:
+
+Para encontrar el MCM mediante la factorización, sigue estos pasos:
+
+1. Descompón cada número en sus factores primos.
+2. Identifica los factores primos comunes y no comunes con sus mayores exponentes.
+3. Multiplica estos factores para obtener el MCM.
+
+Ejemplo
+MCM
+ 12|2        15|3
+  6|2         5|5
+  3|3         1|
+  1|    
+  
+Los factores primos con sus mayores exponentes son: 
+$$ 12 = 2^2 * 3   y   15 = 3 * 5 $$
+
+$$ MCM (12,15) = 2^2 * 3 * 5 = 4* 3* 5= 60)$$ 
+
+
+
 
 2. **Suma y Resta de Fracciones**:
    - Para sumar o restar fracciones, deben tener un denominador común.
@@ -145,6 +169,84 @@ MCD=75
      $$\frac{1}{2} + \frac{1}{3} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}$$
      ```
      
+
+# Curso de Introducción a la Lógica de Programación
+
+## Suma de Fracciones
+
+Para realizar la suma de fracciones, necesitas encontrar un denominador común para las fracciones involucradas. Aquí están los pasos detallados:
+
+1. **Encuentra un Denominador Común**:
+   - El denominador común debe ser un múltiplo común de los denominadores de las fracciones que estás sumando. El denominador común más pequeño se llama Mínimo Común Múltiplo (MCM) de los denominadores.
+
+2. **Ajusta las Fracciones**:
+   - Convierte cada fracción a una fracción equivalente con el denominador común encontrado.
+
+3. **Suma los Numeradores**:
+   - Suma los numeradores de las fracciones ajustadas.
+
+4. **Simplifica la Fracción Resultante**:
+   - Simplifica la fracción resultante si es posible.
+
+### Ejemplo
+
+Vamos a sumar las fracciones \( \frac{1}{4} \) y \( \frac{2}{3} \).
+
+#### Paso 1: Encuentra el Denominador Común
+
+- Los denominadores son 4 y 3.
+- El MCM de 4 y 3 es 12.
+
+#### Paso 2: Ajusta las Fracciones
+
+Convierte cada fracción a una fracción equivalente con el denominador común 12.
+
+- \( \frac{1}{4} \) se convierte en \( \frac{1 \times 3}{4 \times 3} = \frac{3}{12} \).
+- \( \frac{2}{3} \) se convierte en \( \frac{2 \times 4}{3 \times 4} = \frac{8}{12} \).
+
+#### Paso 3: Suma los Numeradores
+
+- Suma los numeradores de las fracciones ajustadas: \( 3 + 8 = 11 \).
+
+#### Paso 4: Simplifica la Fracción Resultante
+
+- La fracción resultante es \( \frac{11}{12} \). No es necesario simplificar más ya que \( \frac{11}{12} \) es la fracción más simple.
+
+### Implementación en Python
+
+```python
+from math import gcd
+
+def mcm(a, b):
+    return abs(a * b) // gcd(a, b)
+
+def suma_fracciones(frac1, frac2):
+    numerador1, denominador1 = frac1
+    numerador2, denominador2 = frac2
+    
+    # Encuentra el denominador común
+    denominador_comun = mcm(denominador1, denominador2)
+    
+    # Ajusta las fracciones
+    numerador1_ajustado = numerador1 * (denominador_comun // denominador1)
+    numerador2_ajustado = numerador2 * (denominador_comun // denominador2)
+    
+    # Suma los numeradores
+    numerador_suma = numerador1_ajustado + numerador2_ajustado
+    
+    # Simplifica la fracción resultante
+    divisor_comun = gcd(numerador_suma, denominador_comun)
+    numerador_simplificado = numerador_suma // divisor_comun
+    denominador_simplificado = denominador_comun // divisor_comun
+    
+    return (numerador_simplificado, denominador_simplificado)
+
+# Ejemplo de uso
+fraccion1 = (1, 4)
+fraccion2 = (2, 3)
+resultado = suma_fracciones(fraccion1, fraccion2)
+print(f"La suma de {fraccion1} y {fraccion2} es: {resultado[0]}/{resultado[1]}")
+
 
    
 4. **Multiplicación y División de Fracciones**:
