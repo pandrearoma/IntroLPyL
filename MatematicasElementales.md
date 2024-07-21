@@ -80,6 +80,10 @@
    - Una fracción representa una parte de un todo y se compone de un numerador (parte superior) y un denominador (parte inferior).
      \[ \frac{a}{b} \]
 
+\(\frac{1}{2}\), \(\frac{3}{4}\), \(\frac{5}{8}\)
+
+
+
 2. **Suma y Resta de Fracciones**:
    - Para sumar o restar fracciones, deben tener un denominador común.
      \[ \frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd} \]
@@ -111,6 +115,25 @@
      Ejemplo:
      \frac{3}{4} = 3 \div 4 = 0.7
 
+
+
+### Ecuaciones Básicas
+
+1. **Ecuaciones Lineales**:
+   - Una ecuación lineal es una ecuación de primer grado que puede representarse como \( ax + b = c \).
+     ```markdown
+     Ejemplo:
+     2x + 3 = 7
+     ```
+
+2. **Resolver Ecuaciones Lineales**:
+   - Para resolver \( ax + b = c \):
+     1. Resta \( b \) de ambos lados de la ecuación.
+     2. Divide ambos lados por \( a \).
+     \[ 2x + 3 = 7 \]
+     \[ 2x = 7 - 3 \]
+     \[ 2x = 4 \]
+     \[ x = 2 \]
 
    
 5. **Mínimo Común Divisor**: El residuo es la cantidad que sobra después de realizar una división entera.
