@@ -10,3 +10,7 @@
 9. Si 5 máquinas pueden producir 100 unidades en 4 horas, ¿cuánto tiempo tomará producir 100 unidades con 10 máquinas?
 10. Si una bomba llena un tanque en 12 horas, ¿cuánto tiempo tomarán 3 bombas para llenar el mismo tanque?
     
+
+
+
+### [Regresar](README.md)
