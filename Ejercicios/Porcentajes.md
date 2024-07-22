@@ -15,5 +15,6 @@
 13. Durante una venta especial, una tienda ofrece una rebaja del 25% en todos los electrodomésticos. Si una lavadora cuesta $400, calcula el precio final después de aplicar la rebaja. Además, calcula la cantidad de dinero ahorrada con la rebaja.
 14. Un banco ofrece un interés simple anual del 5% en una cuenta de ahorros. Si depositas $2000 en la cuenta, calcula el interés ganado después de un año. Además, calcula el saldo total en la cuenta después de un año.
 15. Un restaurante ofrece un descuento del 10% en toda la factura si el total supera los $50. Si la factura de un cliente es de $65, calcula el monto del descuento y el total a pagar después del descuento.
-16. 
+
+### [Regresar](README.md)
 
