@@ -11,5 +11,8 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Fracciones](Fracciones.md)
 
+[Despejar Ecuaciones](DespejarEcuaciones.md)
+
+
 ### [Regresar](../README.md)
 
