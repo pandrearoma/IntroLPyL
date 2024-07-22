@@ -12,3 +12,6 @@
 9. Despeja $x$ en la ecuación $\frac{x + 2}{x - 1} = 3$.
 10. Despeja $y$ en la ecuación $\frac{2y}{y + 3} = 4$.
 11. Despeja $z$ en la ecuación $\frac{3z + 1}{2z - 5} = \frac{4}{3}$.
+
+
+### [Regresar](README.md)
