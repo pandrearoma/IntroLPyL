@@ -17,7 +17,7 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Regla de tres](ReglaDeTres.md)
 
-[Porcentaje](Porcentaje.md)
+[Porcentaje](Porcentajes.md)
 
 
 ### [Regresar](../README.md)
