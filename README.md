@@ -35,9 +35,9 @@ Día 1
 Día 2
 
   
-  - [Proporcionalidad](enlace_al_archivo_reglas_de_tres)
-  - [Reglas de tres](enlace_al_archivo_reglas_de_tres)
-  - [Porcentajes](enlace_al_archivo_porcentajes)
+  - [Proporcionalidad](Presentacion_MatematicaOperativa.pdf)
+  - [Reglas de tres](Presentacion_MatematicaOperativa.pdf)
+  - [Porcentajes](Presentacion_MatematicaOperativa.pdf)
 
     
 Día 3
