@@ -15,6 +15,10 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Proporcionalidad](Proporcionalidad.md)
 
+[Regla de tres](ReglaDeTres.md)
+
+[Porcentaje](Porcentaje.md)
+
 
 ### [Regresar](../README.md)
 
