@@ -13,6 +13,8 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Despejar Ecuaciones](DespejarEcuaciones.md)
 
+[Proporcionalidad](Proporcionalidad.md)
+
 
 ### [Regresar](../README.md)
 
