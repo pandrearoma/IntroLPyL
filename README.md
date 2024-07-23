@@ -42,8 +42,8 @@ Día 2
     
 Día 3
 
-  - [Cálculo de operaciones básicas](enlace_al_archivo_calculo_de_operaciones_basicas)
-  - [Fórmulas para recordar](enlace_al_archivo_despeje_de_ecuaciones)
+  - [Cálculo de operaciones básicas](Presentacion_MatematicaOperativa.pdf)
+  - [Fórmulas para recordar](Presentacion_MatematicaOperativa.pdf)
 
 
 Día 4
