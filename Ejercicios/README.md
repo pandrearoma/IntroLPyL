@@ -19,6 +19,9 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Porcentaje](Porcentajes.md)
 
+[Operaciones Básicas](OperacionesBasicas.md)
+
+[Silogismos](Silogismos.md)
 
 ### [Regresar](../README.md)
 
