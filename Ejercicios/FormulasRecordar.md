@@ -18,4 +18,18 @@
 12. Tienes un jardín rectangular de 50 metros de largo y 30 metros de ancho. Dentro del jardín hay una piscina circular con un radio de 5 metros. Necesitas calcular el área del jardín que no está ocupada por la piscina.
 
 https://quizizz.com/
+
 # Distancia entre puntos 
+1. Calcular la distancia entre los puntos 𝐴(3,4) y 𝐵(7,1)
+2. Calcular la distancia entre los puntos 𝐶(−2,−3) y 𝐷(3,2)
+3. Dos amigos deciden encontrarse en un parque. Uno de ellos está en el punto 𝐴(2,3) y el otro en el punto 𝐵(10,7). Quieren saber a qué distancia están uno del otro para calcular el tiempo que les tomará reunirse si caminan hacia el punto medio de la línea que los une.
+4. Un jardinero necesita diseñar un jardín en forma de triángulo y debe calcular las longitudes de los lados. Los vértices del triángulo están en los puntos 𝐴(0,0), 𝐵(4,0) y 𝐶(4,3).
+5. Un terreno tiene la forma de un cuadrado cuyos vértices están en (1,1) (1,4) (4,4) y (4,1). Calcular el área y el périmetro de dicho cuadrado.
+6. Dos amigos, Ana y Luis, quieren encontrarse en un parque. Ana está en el punto A(2,3) y Luis está en el punto B(8,10). ¿Qué distancia tendrán que recorrer para encontrarse?
+7. Una empresa de telecomunicaciones está planeando instalar dos torres en una ciudad. Las torres estarán ubicadas en los puntos T1 (4,5) y T2 (10,12). ¿Cuál es la distancia entre las dos torres?
+8. Un parque rectangular tiene sus esquinas en los puntos P(0,0), Q(0,6), R(8,6) y S(8,0). Calcula la longitud de la diagonal que une las esquinas P y 𝑅.
+9. Dos satélites están orbitando la Tierra. El satélite A está en el punto A(5,8) y el satélite B está en el punto B(−3,−4). Calcula la distancia entre los dos satélites.
+10. Verificar si los puntos A(1,2), B(4,5) y C(7,2) están en la circunferencia centrada en O(4,2).
+11. Determinar si los puntos A(2,3), B(2,−1) y C(6,1) pertenecen a una circunferencia con centro O(2,1).
+12. Dos amigos, María y Luis, acuerdan encontrarse en una biblioteca. María estará en el punto A(0,b) y Luis en el punto B(3,4). Desean que la distancia entre ellos sea exactamente 5 unidades para poder encontrarse sin problemas. Determina el valor de 𝑏 que cumple con esta condición.
+13. Una empresa de telecomunicaciones está instalando dos antenas. La primera antena estará en el punto A(2,c) y la segunda en el punto B(5,1). La empresa necesita que la distancia entre las antenas sea exactamente 5 unidades para garantizar la mejor cobertura. Determina el valor de 𝑐 que cumple con esta condición.
