@@ -42,8 +42,8 @@ Día 2
     
 Día 3
 
-  - [Cálculo de operaciones básicas](Presentacion_MatematicaOperativa.pdf)
   - [Fórmulas para recordar](Presentacion_MatematicaOperativa.pdf)
+  - [Silogismos](Silogismos.pdf)
 
 
 Día 4
