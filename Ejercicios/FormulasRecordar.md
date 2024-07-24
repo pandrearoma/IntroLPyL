@@ -17,7 +17,7 @@
 11. Tienes una parcela con forma de L que se puede dividir en dos rectángulos. El primer rectángulo mide 10 metros de largo y 15 metros de ancho. El segundo rectángulo mide 10 metros de largo y 5 metros de ancho.
 12. Tienes un jardín rectangular de 50 metros de largo y 30 metros de ancho. Dentro del jardín hay una piscina circular con un radio de 5 metros. Necesitas calcular el área del jardín que no está ocupada por la piscina.
 
-https://quizizz.com/
+https://quizizz.com/Join
 
 # Distancia entre puntos 
 1. Calcular la distancia entre los puntos 𝐴(3,4) y 𝐵(7,1)
