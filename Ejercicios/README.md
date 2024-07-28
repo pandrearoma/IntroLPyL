@@ -23,5 +23,8 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Silogismos](Silogismos.md)
 
+[Variables y Operadores](VariablesyOperadores.md)
+
+
 ### [Regresar](../README.md)
 
