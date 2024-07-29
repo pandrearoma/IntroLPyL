@@ -25,6 +25,8 @@ Aquí encontraras diferentes ejercicios para afianzar los conocimientos adquirid
 
 [Variables y Operadores](VariablesyOperadores.md)
 
+[Estructuras de Selección](Estructuras_Seleccion.md)
+
 
 ### [Regresar](../README.md)
 
