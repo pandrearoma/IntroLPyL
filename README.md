@@ -49,15 +49,15 @@ Día 3
 Día 4
 
 
-- [Operadores y expresiones](enlace_al_archivo_operadores_y_expresiones)
-- [Tipos de variables](enlace_al_archivo_tipos_de_variables)
+- [Operadores y expresiones](Variables y Operadores.pdf)
+- [Tipos de variables](Variables y Operadores.pdf)
 
 
 Día 5
 
-- [Diseño de algoritmos](enlace_al_archivo_diseno_de_algoritmos)
-- [Codificación](enlace_al_archivo_codificacion)
-- [Estructuras de selección](enlace_al_archivo_estructuras_de_seleccion)
+- [Diseño de algoritmos](Diagrama de flujo.pdf)
+- [Codificación](Diagrama de flujo.pdf)
+- [Estructuras de selección](Diagrama de flujo.pdf)
 
 
 Día 6
