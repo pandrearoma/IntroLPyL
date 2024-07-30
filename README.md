@@ -47,9 +47,7 @@ Día 3
 
 
 Día 4
-- [Operadores y expresiones](Variables y Operadores.pdf)
-
-- [Operadores y expresiones]()
+- [Operadores y expresiones](Variables_Operadores.pdf)
 - [Tipos de variables](Variables y Operadores.pdf)
 
 
