@@ -61,7 +61,7 @@ Día 5
 Día 6
 
 
-- [Presentación de ejemplos de IDE (Entre otros)](enlace_al_archivo_presentacion_de_ejemplos_de_IDE)
+- [Presentación de ejemplos de IDE (Entre otros)](IDE_Programacion.pdf)
   - [Netbeans](enlace_al_archivo_netbeans)
   - [JCreator](enlace_al_archivo_jcreator)
   - [Python](enlace_al_archivo_python)
